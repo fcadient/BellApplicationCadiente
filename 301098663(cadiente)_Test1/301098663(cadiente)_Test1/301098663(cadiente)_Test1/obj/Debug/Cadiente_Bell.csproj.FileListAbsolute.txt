@@ -1,0 +1,15 @@
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\bin\Debug\301098663(cadiente)_Test1.exe.config
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\bin\Debug\301098663(cadiente)_Test1.exe
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\bin\Debug\301098663(cadiente)_Test1.pdb
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\Cadiente_Bell.csprojAssemblyReference.cache
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\MainWindow.g.cs
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\App.g.cs
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\301098663(cadiente)_Test1_MarkupCompile.cache
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\301098663(cadiente)_Test1_MarkupCompile.lref
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\MainWindow.baml
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\301098663(cadiente)_Test1.g.resources
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\_301098663_cadiente__Test1.Properties.Resources.resources
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\Cadiente_Bell.csproj.GenerateResource.cache
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\Cadiente_Bell.csproj.CoreCompileInputs.cache
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\301098663(cadiente)_Test1.exe
+C:\Users\philip\Desktop\Silverware POS\Bell\BellApplicationCadiente\301098663(cadiente)_Test1\301098663(cadiente)_Test1\301098663(cadiente)_Test1\obj\Debug\301098663(cadiente)_Test1.pdb
